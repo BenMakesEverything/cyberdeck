@@ -7,7 +7,7 @@
 
 Full project file:
 
-3D Printed parts only:
+3D Printed parts only: download cyberdeck-print-files-only.zip (step format)
 
 Flat face-plates only:
 
