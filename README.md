@@ -11,4 +11,6 @@ If you only want the 3D printed parts: download cyberdeck-print-files-only.zip (
 
 If you only want the flat top/bottom plates: download cyberdeck-plates-only.zip (step format)
 
+Trackball Arduino code: Check back soon, I will add it.
+
 ### Enjoy!
