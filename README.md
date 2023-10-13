@@ -5,10 +5,10 @@
 
 ## 3D Files:
 
-Full project file:
+Full project file: cyberdeck-final.zip (step format) or cyberdeck-final.f3z (fusion 360)
 
-3D Printed parts only: download cyberdeck-print-files-only.zip (step format)
+If you only want the 3D printed parts: download cyberdeck-print-files-only.zip (step format)
 
-Flat face-plates only:
+If you only want the flat top/bottom plates: download cyberdeck-plates-only.zip (step format)
 
 ### Enjoy!
