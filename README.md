@@ -13,7 +13,8 @@ If you only want the flat top/bottom plates: download cyberdeck-plates-only.zip 
 
 Trackball Arduino code: trackball.ino
 
-Parts List:
+##Parts List:
+
 Motherboard/CPU, Expansion Cards, Battery, Speakers, Wifi Card: https://frame.work/marketplace
 
 RAM: https://www.newegg.com/corsair-16gb-260-pin-ddr4-so-dimm/p/N82E16820236663
