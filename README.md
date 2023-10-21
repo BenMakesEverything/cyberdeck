@@ -19,7 +19,7 @@ You need:
 
 frame-top-left, frame-top-right, frame-bottom-left, frame-bottom-right, screen-frame-left, screen-frame-right, and button (printed x2)
 
-I printed mune at 50% infill for strength and durability.
+I printed mine at 50% infill for strength and durability.
 
 For the plates, I reccommend using something other than PLA, plus they are too big for most printers. Get it laser cut from acrylic or machined from aluminum. For that purpose I have included 2D versions of the files, if you want to use a laser. Otherwise just use the regular ones that have the bevels and other features.
 
