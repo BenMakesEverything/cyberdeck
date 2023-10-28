@@ -70,4 +70,24 @@ Power switch (I removed the metal tab): https://www.amazon.com/gp/product/B07YQQ
 
 Also uses various metric hardware: m2, m3 and m4 bolts.
 
+## Hardware:
+
+Standard Hex head bolts:
+
+Motherboard mounting - [5] M4x8mm
+
+Hinges (bottom part) - [4] M3x8mm
+
+Wifi card - [1] M3x6mm
+
+Display boards, hub - [7] M2x4mm
+
+Tapered Head bolts (listed length includes head):
+
+Front plates - [6] M3x6mm
+
+Hinges (front part, goes through plate) - [4] M3x16mm, [4] M3 Nuts
+
+Speakers - [4] M3x8mm
+
 ### Enjoy!
